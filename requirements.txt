@@ -1,0 +1,7 @@
+matplotlib
+numpy
+pandas
+PyWavelets
+scipy
+torch
+tqdm
