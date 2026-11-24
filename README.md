@@ -5,4 +5,4 @@
 >
 > **This public release only includes the code and the shareable data artifact currently kept under `data/`.**
 >
-> **For questions about the code or data, please open an issue.**
+> **Any questions about codes or data, please feel free to email [ruiningchen@mail.ustc.edu.cn](mailto:ruiningchen@mail.ustc.edu.cn).**
